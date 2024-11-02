@@ -2,8 +2,7 @@
 <h3 align="center">Web developer specialized in front end and back end developer</h3> <br>
 <p align="center">- 🌱 I’m currently learning **xml and java for developer android and postgresql** </p>
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-wagdy-youssif-elfki&" alt="ahmed-wagdy-youssif-elfki" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmed-wagdy-youssif-elfki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-wagdy-youssif-elfki" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-wagdy-youssif-elfki&show_icons=true&locale=en&layout=compact" alt="ahmed-wagdy-youssif-elfki" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-wagdy-youssif-elfki&show_icons=true&locale=en" alt="ahmed-wagdy-youssif-elfki" /></p>
 
