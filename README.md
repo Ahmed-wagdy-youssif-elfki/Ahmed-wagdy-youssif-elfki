@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Wagdy Gossif Elfki</h1>
 <h3 align="center">Web developer specialized in front end and back end developer</h3> <br>
-<p align="center">- 🌱 I’m currently learning **xml and java for developer android and postgresql** </p>
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-wagdy-youssif-elfki&" alt="ahmed-wagdy-youssif-elfki" /></p>
 
 
